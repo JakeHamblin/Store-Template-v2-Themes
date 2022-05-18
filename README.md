@@ -1,2 +1,2 @@
-# store-template-v2-themes
-A public repository containing the open-source CSS of Store Template v2 that allows for custom Store Template v2 themes.
+# Store Template v2 Themes
+As a way to allow for people to have the freedom to control the design of their site, I have updated Store Template v2 to have separated CSS files. This is a way to be able to allow people to expand on the current design of Store Template v2. As of v1.7, Store Template v2 doesn't have combined and shortned CSS. This is to allow for any new final changes that will be made in the CSS. By v1.8, Store Template v2 will contain combined CSS files, which will make doing custom themes even easier. As a general rule of thumb, don't be mean and charge people for themes. This is frounded upon.
